@@ -1,0 +1,59 @@
+.detailsMain{
+    width: 100%;
+    
+    height: 100%;
+}
+.mainNav{
+
+    background: whitesmoke;
+    height: 5%;
+    display: flex;
+}
+.mainNav1{
+    width: 10%;
+}
+.MuiFormControl-root{
+    margin-right: 500px;
+}
+.mainNav2{
+    width: 90%;
+}
+.navBack{
+    margin-left: 95%;
+}
+.closeGraph{
+    margin-top: 5px;
+}
+.one{
+    
+   height: 65%;
+    flex: .5;
+    display: flex;
+}
+.two{
+    margin-top: 40px;
+    display: flex;
+   height: 29%;
+}
+.graph{
+    background: wheat;
+    flex: 1;
+}
+.detailnew{
+    flex: .3;
+    background: violet;
+}
+
+
+.graph1{
+    background: blueviolet;
+    flex: .7;
+}
+.closeItem{
+    height: 1px;
+    position: relative;
+}
+.detailnew1{
+    flex: .3;
+    background: burlywood;
+}
